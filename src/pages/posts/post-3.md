@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/MarkdownPostLayout.astro
 title: "The Third Chapter"
 pubDate: "02/04/2025"
 description: "A third post just to get the hang of things"
@@ -9,9 +10,6 @@ author: "Jerrel W"
 tags: ["astro", "blogging", "grinding", "flourishing"]
 
 ---
-
-# Chapter 3 - Getting Familiar
-
 ## Markdown
 
 Markdown is getting a _litte_ more familiar but we'll see how things go.
