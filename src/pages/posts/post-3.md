@@ -7,7 +7,7 @@ image:
     url: "https://docs.astro.build/assets/rays.webp"
     alt: "The Astro logo on a dark background with rainbow rays."
 author: "Jerrel W"
-tags: ["astro", "blogging", "grinding", "flourishing"]
+tags: ["astro", "learning in public"]
 
 ---
 ## Markdown

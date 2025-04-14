@@ -7,7 +7,7 @@ author: "Jerrel W"
 image:
     url: "https://docs.astro.build/assets/arc.webp"
     alt: "The Astro logo on a dark background with a purple gradient arc."
-tags: ["astro", "blogging", "grinding", "flourishing"]
+tags: ["astro", "blogging"]
 
 ---
 
